@@ -1,4 +1,4 @@
-package Com.tns.assignments;
+package Amazon;
 
 public class Non_prime_account implements Amazon {
 	public void delivery_charges()
