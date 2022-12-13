@@ -1,0 +1,63 @@
+.Content{
+ text-align:justify;
+ font-size: 2rem;
+ font-style: bold;
+ padding-left: 20%;
+ color:rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+}
+
+.HomeContent{
+    text-align: center;
+    font-weight: 50%;
+    font-style:bold;
+    font-size: 3rem;
+    color:black;
+    padding-left: 20%;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px;
+}
+
+.NavbarContent{
+    
+    text-align: left;
+    font-size: 2rem;;
+   font-style: normal;
+   padding-top: 5%;
+   color:black;
+   word-spacing: 4em;
+   padding-left:2.5%;
+   font-style:bold;
+   cursor: pointer;
+}
+.form{
+    text-align: center;
+    font-size:1rem;
+    font-style:bold;
+    color:black;
+    cursor: pointer;
+}
+
+
+.contact{
+    text-align: center;
+    padding-left: 50%;
+    padding-right: 20%;
+    font-style: bold;
+    color:rgb(9, 9, 9);
+    font-size:2rem;
+}
+.tablecontent{
+    width: 100%;
+    text-align: center;
+   line-height: normal;
+   padding-left:60%;
+   font-size: 1.5rem;
+   cursor: pointer;
+   font-style: bold;
+}
+
